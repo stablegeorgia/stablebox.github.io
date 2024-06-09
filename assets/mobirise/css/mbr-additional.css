@@ -1179,7 +1179,7 @@ a {
 .cid-ueVmuteqcC .navbar-dropdown {
   padding: 0;
   background-color: #ffffff !important;
-  position: fixed;
+  position: none;
 }
 .cid-ueVmuteqcC .opacityScroll {
   /*background: rgba(255, 255, 255, 0) !important;*/
