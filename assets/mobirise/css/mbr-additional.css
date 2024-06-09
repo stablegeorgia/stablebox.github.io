@@ -2101,7 +2101,7 @@ a {
   position: fixed;
 }
 .cid-ufcVPwTOpR .opacityScroll {
-  background: rgba(255, 255, 255, 0) !important;
+  /*background: rgba(255, 255, 255, 0) !important;*/
 }
 .cid-ufcVPwTOpR a.nav-link {
   display: flex;
