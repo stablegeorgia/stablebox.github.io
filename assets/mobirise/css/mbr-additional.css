@@ -2098,7 +2098,7 @@ a {
 .cid-ufcVPwTOpR .navbar-dropdown {
   padding: 0;
   background-color: #ffffff !important;
-  position: fixed;
+  position: none;
 }
 .cid-ufcVPwTOpR .opacityScroll {
   /*background: rgba(255, 255, 255, 0) !important;*/
